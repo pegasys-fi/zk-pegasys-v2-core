@@ -1,7 +1,7 @@
 {
   "_format": "hh-zksolc-artifact-1",
-  "contractName": "IUniswapV2ERC20",
-  "sourceName": "contracts/interfaces/IUniswapV2ERC20.sol",
+  "contractName": "IPegasysV2ERC20",
+  "sourceName": "contracts/interfaces/IPegasysV2ERC20.sol",
   "abi": [
     {
       "anonymous": false,

@@ -1,7 +1,7 @@
 {
   "_format": "hh-zksolc-artifact-1",
-  "contractName": "IUniswapV2Callee",
-  "sourceName": "contracts/interfaces/IUniswapV2Callee.sol",
+  "contractName": "IPegasysV2Callee",
+  "sourceName": "contracts/interfaces/IPegasysV2Callee.sol",
   "abi": [
     {
       "constant": false,
@@ -27,7 +27,7 @@
           "type": "bytes"
         }
       ],
-      "name": "uniswapV2Call",
+      "name": "pegasysV2Call",
       "outputs": [],
       "payable": false,
       "stateMutability": "nonpayable",
