@@ -7,7 +7,7 @@ contract PegasysV2ERC20 is IPegasysV2ERC20 {
     using SafeMath for uint;
 
     string public constant name = 'Pegasys V2';
-    string public constant symbol = 'UNI-V2';
+    string public constant symbol = 'SYS-V2';
     uint8 public constant decimals = 18;
     uint  public totalSupply;
     mapping(address => uint) public balanceOf;
